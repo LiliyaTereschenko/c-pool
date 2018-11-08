@@ -1,0 +1,5 @@
+Credentials cache: API:8156
+        Principal: kkihn@21-SCHOOL.RU
+
+  Issued                Expires               Principal
+Oct 15 19:53:37 2018  Oct 16 19:53:37 2018  krbtgt/21-SCHOOL.RU@21-SCHOOL.RU
